@@ -1,1 +1,0 @@
-"C:\Program Files\LAMMPS 64-bit 16Aug2018\bin\lmp_serial.exe" -in in.Cu
